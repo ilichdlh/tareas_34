@@ -1,5 +1,5 @@
 # afisp
- task for adres
+ task for ask
 # Para ejecutar la soluciones generales: 
 Buscar el R script se llama p_adres y tiene la solución a las partes 1, 2 y 3 del reto. Para correrlo debe estar en la misma carpeta y nivel que la base de datos.
 
